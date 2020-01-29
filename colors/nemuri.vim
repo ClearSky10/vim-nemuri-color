@@ -32,6 +32,9 @@ hi SpellBad gui=underline guibg=NONE  guifg=#FF0000 ctermfg=009 cterm=underline
 hi SpellLocal gui=underline guibg=NONE guifg=#FFFF00 ctermfg=011 ctermbg=NONE cterm=underline
 hi Folded guibg=#000F0F guifg=#007F7F ctermfg=030 ctermbg=017
 hi VimwikiMarkers guifg=#7F00FF ctermfg=093
+hi Tabline guibg=#1F1F1F ctermbg=234
+hi TablineFill gui=NONE cterm=NONE guibg=#1F1F1F ctermbg=234
+hi TablineSel guifg=#00FFFF guibg=014
 
 " Common groups that link to default highlighting.
 " You can specify other highlighting easily.
