@@ -17,7 +17,7 @@ hi Special	    gui=bold	          guifg=#7F00FF ctermfg=093 cterm=bold
 hi Identifier	gui=bold	          guifg=#00FF00 ctermfg=010 cterm=bold
 hi Statement    gui=bold	          guifg=#FFFF00 ctermfg=011 cterm=bold
 hi PreProc	    gui=bold   	          guifg=#0000FF ctermfg=012 cterm=bold
-hi Type		            	          guifg=#00FF00 ctermfg=010
+hi Type		            	          guifg=#00FF00 ctermfg=010 cterm=bold
 hi Function	    gui=bold	          guifg=#FFFFFF ctermfg=015 cterm=bold
 hi Repeat	   gui=underline          guifg=#FFFFFF ctermfg=015 cterm=underline
 hi Operator 				          guifg=#7F0000 ctermfg=001
