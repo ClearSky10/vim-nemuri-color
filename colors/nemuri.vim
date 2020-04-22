@@ -14,7 +14,7 @@ hi Normal	                          guifg=#FFFFFF ctermfg=015
 hi Comment	           		          guifg=#00FFFF ctermfg=014
 hi Constant	            	          guifg=#FF00FF ctermfg=013
 hi Special	    gui=bold	          guifg=#7F00FF ctermfg=093 cterm=bold
-hi Identifier	gui=bold	          guifg=#FF0000 ctermfg=009 cterm=bold
+hi Identifier	gui=bold	          guifg=#007FFF ctermfg=009 cterm=bold
 hi Statement    gui=bold	          guifg=#FFFF00 ctermfg=011 cterm=bold
 hi PreProc	    gui=bold   	          guifg=#0000FF ctermfg=012 cterm=bold
 hi Type		            	          guifg=#00FF00 ctermfg=010 cterm=bold
@@ -26,12 +26,12 @@ hi Error  gui=underline guibg=#000000 guifg=#7F0000 ctermfg=001 cterm=underline 
 hi Todo	guibg=NONE                    guifg=#FF00FF ctermfg=013 ctermbg=NONE
 hi Title gui=bold                     guifg=#00FF7F ctermfg=000 cterm=bold
 hi LineNr guibg=#0F0F0F               guifg=#7F7F7F ctermfg=008 ctermbg=232
-hi Underlined gui=underline           guifg=#00FFFF ctermfg=014 cterm=underline
+hi Underlined gui=underline           guifg=#00CCFF cterm=underline
 hi Pmenu guibg=#7F7F7F                guifg=#000000 ctermfg=000 ctermbg=008
 hi SpellBad gui=underline guibg=NONE  guifg=#FF0000 ctermfg=009 cterm=underline
 hi SpellLocal gui=underline guibg=NONE guifg=#FFFF00 ctermfg=011 ctermbg=NONE cterm=underline
 hi Folded guibg=#000F0F guifg=#007F7F ctermfg=030 ctermbg=017
-hi VimwikiMarkers guifg=#00FF7F ctermfg=009 
+hi VimwikiMarkers guifg=#007BA7 ctermfg=009 
 hi Tabline guibg=#1F1F1F ctermbg=234
 hi TablineFill gui=NONE cterm=NONE guibg=#1F1F1F ctermbg=234
 hi TablineSel guifg=#00FFFF guibg=014
@@ -60,12 +60,12 @@ hi link Delimiter	Special
 hi link SpecialComment Special
 hi link Debug		Special
 
-hi VimwikiHeader1 gui=bold guifg=#FF0000 ctermfg=009 cterm=bold
-hi VimwikiHeader2 gui=bold guifg=#7F00FF ctermfg=012 cterm=bold
-hi VimwikiHeader3 gui=bold guifg=#FF00FF ctermfg=013 cterm=bold
-hi VimwikiHeader4 gui=bold guifg=#00FFFF ctermfg=014 cterm=bold
-hi VimwikiHeader5 gui=bold guifg=#FF007F ctermfg=198 cterm=bold
-hi VimwikiHeader6 gui=bold guifg=#FFFF00 ctermfg=011 cterm=bold
+hi VimwikiHeader1 gui=bold guifg=#29AB87 ctermfg=009 cterm=bold
+hi VimwikiHeader2 gui=bold guifg=#00CCCC ctermfg=009 cterm=bold
+hi VimwikiHeader3 gui=bold guifg=#007F7F ctermfg=009 cterm=bold
+hi VimwikiHeader4 gui=bold guifg=#0D98BA ctermfg=009 cterm=bold
+hi VimwikiHeader5 gui=bold guifg=#00FF40 ctermfg=009 cterm=bold
+hi VimwikiHeader6 gui=bold guifg=#1034A6 ctermfg=009 cterm=bold
 
 hi OL1 gui=bold guifg=#00FF7F ctermfg=048 cterm=bold
 hi OL2 gui=bold guifg=#0000FF ctermfg=012 cterm=bold
