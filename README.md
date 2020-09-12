@@ -1,3 +1,3 @@
 ## Nemuri
-Welp, it's high-contrast scheme which matematically correct colors (in my view).
+My color scheme.
 Loosely based on Elflord scheme.
