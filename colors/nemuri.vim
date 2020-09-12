@@ -14,9 +14,9 @@ hi Ignore	    			          guifg=#7F7F7F
 hi Error  gui=underline               guifg=#7F0000
 hi Todo	guibg=NONE                    guifg=#FF00FF
 hi Title gui=bold                     guifg=#00FF7F
-hi LineNr guibg=#004D70               guifg=#000000
+hi LineNr guibg=#003640              guifg=#00D9FF
 hi Underlined gui=underline           guifg=#00CCFF
-hi Pmenu guibg=#FF7F7F                guifg=#000000
+hi Pmenu guibg=#06CC48               guifg=#000000
 hi SpellBad gui=underline guibg=NONE  guifg=#CC06CC
 hi SpellLocal gui=underline guibg=NONE guifg=#FFFF00
 hi Folded guibg=#00FF0F guifg=#007F7F
