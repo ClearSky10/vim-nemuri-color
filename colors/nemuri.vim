@@ -1,7 +1,7 @@
 set background=dark
 hi clear
 let g:colors_name = "nemuri"
-hi Normal guibg=#00202F guifg=#43D9C0
+hi Normal guibg=#00202F guifg=#FFFFFF
 hi Comment	           		          guifg=#00FFFF
 hi Constant	    gui=bold   	          guifg=#8D00D9
 hi Special	    gui=italic	          guifg=#7F00FF
