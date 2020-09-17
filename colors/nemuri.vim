@@ -1,7 +1,7 @@
 set background=dark
 hi clear
 let g:colors_name = "nemuri"
-hi Normal guibg=#00202F guifg=#FFFFFF
+hi Normal guibg=#00202F guifg=#DB00AC
 hi Comment	           		          guifg=#00FFFF
 hi Constant	    gui=bold   	          guifg=#8D00D9
 hi Special	    gui=italic	          guifg=#7F00FF
@@ -16,15 +16,15 @@ hi Todo	guibg=NONE                    guifg=#FF00FF
 hi Title gui=bold                     guifg=#00FF7F
 hi LineNr guibg=#003640              guifg=#00D9FF
 hi Underlined gui=underline           guifg=#00CCFF
-hi Pmenu guibg=#06CC48               guifg=#000000
+hi Pmenu guibg=#00DBD0            guifg=#00095E
 hi SpellBad gui=underline guibg=NONE  guifg=#CC06CC
 hi SpellLocal gui=underline guibg=NONE guifg=#FFFF00
-hi Folded guibg=#00FF0F guifg=#007F7F
+hi Folded guibg=#007F7F guifg=#000961
 hi VimwikiMarkers guifg=#007BA7
 hi Tabline guibg=#1F1FFF
 hi TablineFill gui=NONE cterm=NONE guibg=#FF1F1F
 hi TablineSel guifg=#00FFFF guibg=014
-
+i
 " Common groups that link to default highlighting.
 " You can specify other highlighting easily.
 hi link String	Constant
