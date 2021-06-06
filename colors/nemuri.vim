@@ -57,11 +57,11 @@ hi VimwikiHeader5 gui=bold guifg=#00FF40
 hi VimwikiHeader6 gui=bold guifg=#1034A6
 
 hi OL1 gui=bold guifg=#00FF7F
-hi OL2 gui=bold guifg=#0000FF
+hi OL2 gui=bold guifg=#007FFF
 hi OL3 gui=bold guifg=#00FF00
 hi OL4 gui=bold guifg=#00FFFF
 hi OL5 gui=bold guifg=#FF007F
-hi OL6 gui=bold guifg=#FFFF00
+hi OL6 gui=bold guifg=#007F7F
 
 hi BT1 gui=italic guifg=#00FFFF
 hi BT2 gui=italic guifg=#00FFFF
